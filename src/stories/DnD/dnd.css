@@ -1,0 +1,6 @@
+.styled-container {
+    border: 1px solid green;
+    border-radius: 12px;
+    text-align: center;
+    padding: 12px;
+}

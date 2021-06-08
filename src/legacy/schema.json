@@ -1,0 +1,461 @@
+{
+    "units": [
+        {
+            "id": "21a6cb41-fe6f-4f2c-bef0-2d5de4e8b930",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "f732a713-89d9-4559-b543-db789a763d1a",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "cb7ce89d-6f85-488d-87f7-46748ffe2da5",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "01d5f0e7-4f16-4fba-a0fc-819ebbe89ce2",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "8339b26e-bd79-46a5-a7b0-43d97facc84e",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "93e77435-17eb-4774-9592-1c0f10e55b6a",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "5643eece-24dc-47c6-8445-852a6c664e0e",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "64f97e1a-7d56-4a97-96d7-7d10c1a87223",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "23e68033-4632-430b-be4d-6b78e7ec41a8",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "538e1e86-379e-435d-b736-2f0efaaff610",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "e354e3c9-c2c6-412a-b848-8f0e70cc4eff",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "429c6609-c632-4ee2-a7b6-43f7d96046b6",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "f9c4ce8a-84c3-41f6-913c-30e47d46c2ec",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "2c2926f5-5d93-4fff-bde4-9b0927871e64",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "8cf94763-b7bc-4c79-8e6b-ca2d81730352",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "723925ec-efbf-4284-be6d-8a523b310ebc",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "8eb07561-45c0-4df8-a1d8-7c647d735317",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "41b4c4d1-5022-4ad9-a5f7-122f541af558",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "509787f8-ab78-471e-ad2b-a55a48c65869",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "0592d628-351a-4b7d-9d1a-c9d4c63c5ebf",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "b2f878ba-5f9a-4822-974d-9750a6a218a7",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "866db384-1794-4932-882b-0b1f9afb1e77",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "102ed093-b55d-4345-8b08-f0be15b71bb5",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "816787d5-dc74-4a20-9fda-f15124d8ae9b",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "ed67c032-16ca-4f5e-bcd7-e020f2ddd1f1",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "90c99b39-78cf-495d-9083-cc884c1e9ec0",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "8e78d063-ab9f-4b25-857c-a9e368e8adb7",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "b954b203-b78d-4e4e-9efc-1040e333c19d",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "9d9436d0-73db-4582-a8b9-51c4a7c2775d",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "773306de-77c1-45c8-9249-024da081de73",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "d2b2976a-3395-4ae8-838d-b326fbeb495e",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "f75d72a9-c294-42d4-bf3a-3c35ddf1b467",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "6dfee34b-cdff-41de-9bc3-e3c546b2cd78",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "9803c174-d4c7-4d3e-bc15-d051a8ab6eef",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "241f9b19-c0c5-46d8-a986-74bf5b638d38",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "2a72ccb0-ea86-4671-8b61-3dbe3fd1446c",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "1cb4cbbf-61fd-46a4-ae30-62ae40b1a727",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "26af8a3c-2b49-4e9d-b3d8-1b5c9c6b56d9",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "aa9d39a4-0922-4912-8750-597fc14da7f3",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "bae251f5-7fa8-44aa-8f4b-5b8abb96972a",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "8e6badf2-289c-49ec-bdf9-7c26599e2a77",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "33e052ac-77ba-402c-b5c1-3b3ce8aa8414",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "35b851ce-a2c6-427d-a8fe-50c2a45f83f2",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "77e9d476-3fba-4f50-871e-400be0507211",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "cef06589-7e6c-4506-bc12-2b16e31745c0",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "2cdb8780-e057-423a-9421-8315ed212952",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "df0b1e73-b820-4185-8f3c-7a9c87c8ae68",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "9e10cffd-3158-42f3-94e6-5c0d6153204b",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "2c33d91e-bfc9-475c-9286-98db0621cb7c",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "3d36b055-cabc-449c-8e56-e84d38b1bb66",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "777b0ac2-ab52-487b-ae10-d0f2ba8f9de3",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "062aee42-275c-4c34-bbc9-18994e364393",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "f31ab8a0-33d0-4b31-b9b1-7b14f9686acf",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "f034f34d-c069-4811-a987-25872ae4b6fb",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "7ae7245a-3560-405c-a4e5-b6a11eaf4fa9",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "066ecb75-6590-4f17-84b7-c4f50ff21d10",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "7eca27f9-9e21-44df-897f-2a83c740999b",
+            "title": "Unit 1",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "e3ee6a69-67d5-45b9-b852-40f226cc0744",
+            "title": "Unit 2",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "c183dfb0-a939-49c7-8ff0-a3b32da6bba0",
+            "title": "Unit 3",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "30510b6a-5a91-46dd-a1d6-66a4d323f080",
+            "title": "Unit 4",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "c58cbd3a-8113-49a0-9003-d73674390fef",
+            "title": "Unit 5",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "33e67851-7f31-4efe-bbe4-1c579cf0ff34",
+            "title": "Unit 6",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "cab8a12a-14ac-4a12-8ef6-0ac5e50515d2",
+            "title": "Unit 7",
+            "type": "PRIVATE"
+        },
+        {
+            "id": "343661e4-8368-4d82-973d-be6b4d5af4b7",
+            "title": "Unit 8",
+            "type": "PRIVATE"
+        }
+    ],
+    "groups": [
+        {
+            "id": "38037038-cdd0-4ee9-8a31-859d1cc02413",
+            "type": "HOTEL",
+            "title": "YOUR_HOTEL_NAME_HERE",
+            "children": [
+                "b0938e7f-3863-40ea-abb0-f0d3a7471822",
+                "2ba30795-3d7b-4203-a1c9-993253e673d5",
+                "bf2eb652-0d82-438e-b14a-d62169cbb102",
+                "67d5e9cb-6f19-4309-8338-94e487193ee3",
+                "7a90f5c6-02af-468a-83a4-628af1182334",
+                "e6a6b9f6-5286-4b62-8b5a-acd73862788e",
+                "d7df9c28-221f-47ec-8156-6650e265a94a",
+                "1da210a2-2474-4648-afc9-8da34f23f098"
+            ]
+        },
+        {
+            "id": "b0938e7f-3863-40ea-abb0-f0d3a7471822",
+            "type": "FLOOR",
+            "title": "Floor 1",
+            "children": [
+                "21a6cb41-fe6f-4f2c-bef0-2d5de4e8b930",
+                "f732a713-89d9-4559-b543-db789a763d1a",
+                "cb7ce89d-6f85-488d-87f7-46748ffe2da5",
+                "01d5f0e7-4f16-4fba-a0fc-819ebbe89ce2",
+                "8339b26e-bd79-46a5-a7b0-43d97facc84e",
+                "93e77435-17eb-4774-9592-1c0f10e55b6a",
+                "5643eece-24dc-47c6-8445-852a6c664e0e",
+                "64f97e1a-7d56-4a97-96d7-7d10c1a87223"
+            ]
+        },
+        {
+            "id": "2ba30795-3d7b-4203-a1c9-993253e673d5",
+            "type": "FLOOR",
+            "title": "Floor 2",
+            "children": [
+                "23e68033-4632-430b-be4d-6b78e7ec41a8",
+                "538e1e86-379e-435d-b736-2f0efaaff610",
+                "e354e3c9-c2c6-412a-b848-8f0e70cc4eff",
+                "429c6609-c632-4ee2-a7b6-43f7d96046b6",
+                "f9c4ce8a-84c3-41f6-913c-30e47d46c2ec",
+                "2c2926f5-5d93-4fff-bde4-9b0927871e64",
+                "8cf94763-b7bc-4c79-8e6b-ca2d81730352",
+                "723925ec-efbf-4284-be6d-8a523b310ebc"
+            ]
+        },
+        {
+            "id": "bf2eb652-0d82-438e-b14a-d62169cbb102",
+            "type": "FLOOR",
+            "title": "Floor 3",
+            "children": [
+                "8eb07561-45c0-4df8-a1d8-7c647d735317",
+                "41b4c4d1-5022-4ad9-a5f7-122f541af558",
+                "509787f8-ab78-471e-ad2b-a55a48c65869",
+                "0592d628-351a-4b7d-9d1a-c9d4c63c5ebf",
+                "b2f878ba-5f9a-4822-974d-9750a6a218a7",
+                "866db384-1794-4932-882b-0b1f9afb1e77",
+                "102ed093-b55d-4345-8b08-f0be15b71bb5",
+                "816787d5-dc74-4a20-9fda-f15124d8ae9b"
+            ]
+        },
+        {
+            "id": "67d5e9cb-6f19-4309-8338-94e487193ee3",
+            "type": "FLOOR",
+            "title": "Floor 4",
+            "children": [
+                "ed67c032-16ca-4f5e-bcd7-e020f2ddd1f1",
+                "90c99b39-78cf-495d-9083-cc884c1e9ec0",
+                "8e78d063-ab9f-4b25-857c-a9e368e8adb7",
+                "b954b203-b78d-4e4e-9efc-1040e333c19d",
+                "9d9436d0-73db-4582-a8b9-51c4a7c2775d",
+                "773306de-77c1-45c8-9249-024da081de73",
+                "d2b2976a-3395-4ae8-838d-b326fbeb495e",
+                "f75d72a9-c294-42d4-bf3a-3c35ddf1b467"
+            ]
+        },
+        {
+            "id": "7a90f5c6-02af-468a-83a4-628af1182334",
+            "type": "FLOOR",
+            "title": "Floor 5",
+            "children": [
+                "6dfee34b-cdff-41de-9bc3-e3c546b2cd78",
+                "9803c174-d4c7-4d3e-bc15-d051a8ab6eef",
+                "241f9b19-c0c5-46d8-a986-74bf5b638d38",
+                "2a72ccb0-ea86-4671-8b61-3dbe3fd1446c",
+                "1cb4cbbf-61fd-46a4-ae30-62ae40b1a727",
+                "26af8a3c-2b49-4e9d-b3d8-1b5c9c6b56d9",
+                "aa9d39a4-0922-4912-8750-597fc14da7f3",
+                "bae251f5-7fa8-44aa-8f4b-5b8abb96972a"
+            ]
+        },
+        {
+            "id": "e6a6b9f6-5286-4b62-8b5a-acd73862788e",
+            "type": "FLOOR",
+            "title": "Floor 6",
+            "children": [
+                "8e6badf2-289c-49ec-bdf9-7c26599e2a77",
+                "33e052ac-77ba-402c-b5c1-3b3ce8aa8414",
+                "35b851ce-a2c6-427d-a8fe-50c2a45f83f2",
+                "77e9d476-3fba-4f50-871e-400be0507211",
+                "cef06589-7e6c-4506-bc12-2b16e31745c0",
+                "2cdb8780-e057-423a-9421-8315ed212952",
+                "df0b1e73-b820-4185-8f3c-7a9c87c8ae68",
+                "9e10cffd-3158-42f3-94e6-5c0d6153204b"
+            ]
+        },
+        {
+            "id": "d7df9c28-221f-47ec-8156-6650e265a94a",
+            "type": "FLOOR",
+            "title": "Floor 7",
+            "children": [
+                "2c33d91e-bfc9-475c-9286-98db0621cb7c",
+                "3d36b055-cabc-449c-8e56-e84d38b1bb66",
+                "777b0ac2-ab52-487b-ae10-d0f2ba8f9de3",
+                "062aee42-275c-4c34-bbc9-18994e364393",
+                "f31ab8a0-33d0-4b31-b9b1-7b14f9686acf",
+                "f034f34d-c069-4811-a987-25872ae4b6fb",
+                "7ae7245a-3560-405c-a4e5-b6a11eaf4fa9",
+                "066ecb75-6590-4f17-84b7-c4f50ff21d10"
+            ]
+        },
+        {
+            "id": "1da210a2-2474-4648-afc9-8da34f23f098",
+            "type": "FLOOR",
+            "title": "Floor 8",
+            "children": [
+                "7eca27f9-9e21-44df-897f-2a83c740999b",
+                "e3ee6a69-67d5-45b9-b852-40f226cc0744",
+                "c183dfb0-a939-49c7-8ff0-a3b32da6bba0",
+                "30510b6a-5a91-46dd-a1d6-66a4d323f080",
+                "c58cbd3a-8113-49a0-9003-d73674390fef",
+                "33e67851-7f31-4efe-bbe4-1c579cf0ff34",
+                "cab8a12a-14ac-4a12-8ef6-0ac5e50515d2",
+                "343661e4-8368-4d82-973d-be6b4d5af4b7"
+            ]
+        }
+    ]
+}

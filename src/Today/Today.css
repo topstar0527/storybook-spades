@@ -1,0 +1,57 @@
+.draggable-item{
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  width : 100%;
+  display: block;
+  background-color: #fff;
+  outline: 0;
+  border: 1px solid rgba(0,0,0,.125);
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.draggable-item-horizontal{
+    height: 300px;
+    padding: 10px;
+    line-height: 100px;
+    text-align: center;
+    /* width : 200px; */
+    display: block;
+    background-color: #fff;
+    outline: 0;
+    border: 1px solid rgba(0,0,0,.125);
+    margin-right: 4px;
+}
+.card-container{
+  display: inline-block;
+  vertical-align: top;
+  width: 320px;
+  padding: 10px;
+  margin: 5px;
+  margin-right: 45px;
+  background-color: #f3f3f3;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 1px 1px rgba(0,0,0,0.24);
+}
+
+.card{
+  margin: 5px;
+  /* border: 1px solid #ccc; */
+  background-color: white;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 1px 1px rgba(0,0,0,0.24);
+  padding: 10px;
+}
+
+.guest-name {
+  text-transform: capitalize;
+}
+
+
+.card-column-header{
+  font-size: 18px;
+}
+
+.no-guest {
+    font-weight: lighter;
+    font-style: italic;
+}

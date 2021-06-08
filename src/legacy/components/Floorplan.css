@@ -1,0 +1,30 @@
+.no-data {
+    color: lightgray;
+}
+
+.group {
+    padding: 0.8em;
+}
+
+.ROOM {
+    background: linear-gradient(to bottom, white 0%, lightcoral 100%);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    display: inline-block;
+    margin: 3px;
+}
+
+.FLOOR {
+    text-align: left;
+    background: linear-gradient(to bottom, white 0%, lightblue 100%);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    display: block;
+    margin: 3px;
+}
+
+.FLOOR h1 {
+
+}
